@@ -1,0 +1,12 @@
+/* page style */
+
+.introtextbox {
+  padding-left: 1%;
+}
+
+.BBheader {
+  background: black;
+  color: white; padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
